@@ -3,7 +3,7 @@
 [aeid.gg](https://aeid.gg)의 환산 점수를 게임 화면 위에 오버레이로 즉각 표시해 주는 유틸리티 프로그램입니다. 매번 웹사이트에 접속해 검색할 필요 없이, 게임 플레이 중 자연스럽게 파티원이나 신청자의 스펙을 확인할 수 있습니다.
 
 <div align="center">
-  <img src="[https://via.placeholder.com/800x450?text=Screenshot+Image+Here](https://github.com/aied-code/aeid-overlay/blob/main/overlay.png)" alt="aeid-overlay 스크린샷" width="800">
+  <img src="https://github.com/aied-code/aeid-overlay/blob/main/overlay.png?raw=true" width="300">
 </div>
 
 ---
